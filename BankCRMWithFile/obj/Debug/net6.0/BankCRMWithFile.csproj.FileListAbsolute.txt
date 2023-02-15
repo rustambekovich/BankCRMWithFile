@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\bin\Debug\net6.0\BankCRMWithFile.exe
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\bin\Debug\net6.0\BankCRMWithFile.deps.json
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\bin\Debug\net6.0\BankCRMWithFile.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\bin\Debug\net6.0\BankCRMWithFile.dll
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\bin\Debug\net6.0\BankCRMWithFile.pdb
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.dll
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\refint\BankCRMWithFile.dll
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.pdb
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\BankCRMWithFile.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BankCRMWithFile\BankCRMWithFile\obj\Debug\net6.0\ref\BankCRMWithFile.dll
